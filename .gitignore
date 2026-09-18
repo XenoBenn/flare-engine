@@ -57,3 +57,8 @@ a.out.wasm
 # visual studio and its cmake
 .vs/
 CMakeSettings.json
+
+# zig stuff
+.zig-cache
+zig-out
+
